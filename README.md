@@ -26,12 +26,14 @@ no need to restart - you may have to force reload on your browser, though
 go to your **public/javascripts** folder
 
 `rm context_menu.js`
+
 `mv context_menu.js.org context_menu.js`
 
 
 ### Use
 
 * On a desktop device ypu should not experience any difference
+
 * On a touch device you now have a "long click" instead of a "right-click".
 
 Select your issues as you are used to. To show the context menu toch for a bit more than half a second. Context menu will appear. 
