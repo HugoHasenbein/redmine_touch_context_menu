@@ -4,10 +4,20 @@ The JavsScript file provided here is a modified file of the orginal context_menu
 
 ### Install 
 
-go to your **public/javascripts** folder
+
+
+
+1. download / clone repository 
+
+`git clone https://github.com/HugoHasenbein/redmine_touch_context_menu.git`
+
+2. go to your **public/javascripts** folder and save your original file
 
 `mv context_menu.js context_menu.js.org`
-`git clone https://github.com/HugoHasenbein/redmine_touch_context_menu.git`
+
+3. mv context_menu.js to your  **public/javascripts**
+
+'mv <your_download_folder>/redmine_touch_context_menu/context_menu.js /<redmine_root>/public/javascripts
 
 no need to restart - you may have to force reload on your browser, though
 
@@ -15,10 +25,9 @@ no need to restart - you may have to force reload on your browser, though
 
 go to your **public/javascripts** folder
 
-`rm context_menu.js.org`
+`rm context_menu.js`
 `mv context_menu.js.org context_menu.js`
 
-(you may want top remove RADME.rd and the other stuff as well)
 
 ### Use
 
