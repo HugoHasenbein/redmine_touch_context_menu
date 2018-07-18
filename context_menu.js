@@ -248,7 +248,7 @@ function contextMenuInit() {
     $(document).click(contextMenuClick);
     $(document).contextmenu(contextMenuRightClick);
     
-    $(document).longpress( contextMenuRightClick );
+    $(document).longpress( contextMenuRightClick, contextMenuClick );
 
     contextMenuObserving = true;
   }

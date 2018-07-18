@@ -46,4 +46,7 @@ N.A. no localizable strings
 
 ### Change-Log
 
+* **1.0.1**
+- Added ShortTouch to clear context menu selection on touching on empty pane
+
 * **1.0.0**
