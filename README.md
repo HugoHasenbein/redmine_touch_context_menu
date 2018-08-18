@@ -4,12 +4,7 @@ The JavsScript file provided here is a modified file of the orginal context_menu
 
 ### Install 
 
-
-
-
-1. download / clone repository 
-
-`git clone https://github.com/HugoHasenbein/redmine_touch_context_menu.git`
+1. download plugin
 
 2. go to your **public/javascripts** folder and save your original file
 
